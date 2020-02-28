@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html>
+<header> <title>Noa's Portfolio</title> </header>
+    
+<a href="index.html">Back to Home</a>
+<a href="questions.html">Reflection Questions And Responses</a> 
+<a href="artifact%20index.html">Artifacts And Reflections</a>
+<a href="ec%20index.html">Extracurricular Activities</a>
+<a href="techpage.html">Code Page</a>
+<a href="http://brackets.io/">Brackets</a>
+   <link rel="stylesheet" href="style.css">
+  <body>
+  <h1>Noa's Digital Portfolio</h1>
+      <h4>My SMART Goal</h4>
+      <p2>
+          My SMART Goal is to write a good thesis statement. I will know that I have almost reached my goal when I earn over a 90% on an essay. I will work towards my goal by drafting and revising my thesis statement until I have one that best fits my essay.
+      </p2>
+      
+      <h4> My Stretch</h4>
+      <p2> I struggle with adapting to new situations, specifically working with new people that I haven't worked with before. I have improved on my stretch over the course of this sememster. I was put in groups that I haven't been in before and learned to adapt to the work ethic of the group. Example: I learned to adapt to working with Carter and Adam while making posters for History. </p2>
+      <h4>My Strength</h4>
+<p2>
+    I can easily convey a point or idea through storytelling, imagery, and poetry. My writing ability has improved throughout the trimester. I used my strength during the Scarlet Letter essay, which I got 100% on.
+      </p2>
+      
+ </body>
+</html>
